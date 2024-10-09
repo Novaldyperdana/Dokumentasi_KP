@@ -5,6 +5,7 @@ Petunjuk Penggunaan
 2. pastikan sumber input <= 12 volt
 3. letakkan microcontroller dan multiplexer sesuai tempatnya
 4. untuk penggunaan Open-RB jumper diposisikan sebagai berikut
+   
    ![image](https://github.com/user-attachments/assets/bb640125-1d7b-4d1e-867f-bbb9a7dd9162)
 5. pasang kabel sensor sesuai pinnya (jangan terbalik)
 6. nyalakan switch ON
